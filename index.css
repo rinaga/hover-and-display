@@ -1,0 +1,10 @@
+button{
+    background-image: url(btn.png);
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+
+div{
+    align-content: space-between;
+}
